@@ -11,8 +11,6 @@ k
 ;NLayer.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css,b\a\ba33d1888f679e0233d980f4b6b7b085deb15104
 k
 ;NLayer.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map,1\d\1dcb505c50fc10c1d268217ac08a316047ba96ab
-L
-NLayer.API/NLayer.API.csproj,8\6\86811ec62386bd40f80355d45bf5e3b45203be19
 c
 3NLayer.Web/wwwroot/lib/jquery-validation/LICENSE.md,b\3\b37ffd5c40535f831eb92f79e61edddd3ca5204b
 t
@@ -31,12 +29,8 @@ Y
 )NLayer.Web/Properties/launchSettings.json,d\e\dea6c120f10ca6c04a58b1c66a6e8a952b7b981c
 ‡
 WNLayer.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js,6\0\605b7b4b7702bbe79701aeee8727d2109c9e6162
-T
-$NLayer.Caching/NLayer.Caching.csproj,e\2\e2f3e6eb67af8f9a90fb51733f2b63dc9e2cd5c4
 X
 (NLayer.Web/Controllers/HomeController.cs,a\5\a52eda87093dfabe35b89fa91c791b41428e985e
-L
-NLayer.Web/NLayer.Web.csproj,a\a\aa46bc4b977c131b2b9331bbbd0fe21507ccc056
 W
 'NLayer.Web/appsettings.Development.json,9\d\9deba6088a229a3fc90dd50a7e4036bc70e95c6d
 E
@@ -57,8 +51,6 @@ T
 $NLayer.Web/Views/Shared/Error.cshtml,4\4\44c38135eb2bb8b846da856ad52e1694afad783d
 h
 8NLayer.Web/Views/Shared/_ValidationScriptsPartial.cshtml,0\9\09a4e5d4c652f217d71612f26707907afb0d8804
-S
-#NLayer.Web/Models/ErrorViewModel.cs,8\b\8babb2218eddc3dd34edca16bee61c6b7e491207
 M
 NLayer.Web/wwwroot/js/site.js,f\6\f64a565e3015956ca334c9013363a7ed88208a1e
 O
@@ -69,8 +61,6 @@ Y
 ,NLayer.Web/wwwroot/lib/jquery/dist/jquery.js,f\4\f417dc13cfd8a4a877a072772e823b718676e8ab
 a
 1NLayer.Web/wwwroot/lib/jquery/dist/jquery.min.map,4\2\4265fa8877466e90fecaa8cbacca3c2eafcc8ab1
-Z
-*NLayer.Repository/NLayer.Repository.csproj,6\5\6530eef40f1942825fb57fc9b102d652cca168c8
 `
 0NLayer.Web/wwwroot/lib/jquery/dist/jquery.min.js,8\6\86fd63583faeace235481de7e9728d736727a71b
 X
@@ -115,8 +105,6 @@ y
 INLayer.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map,4\4\4474d81f24b4c10d8f087961cf541105ac0a6e4b
 }
 MNLayer.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map,0\3\0309233a5f3bfa6e5bc4c4169cecc30550909057
-T
-$NLayer.Service/NLayer.Service.csproj,e\4\e492649294f5b16bc250a741602f6d1a5023c136
 p
 @NLayer.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css,4\1\412c1ea5ecf8a2dac6f89fd9f960332274317dd9
 r
@@ -157,3 +145,9 @@ g
 7NLayer.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css,a\c\acf62d19b0a7651aec35a2792dfb026bfa8c1b3b
 V
 &NLayer.Web/Views/Shared/_Layout.cshtml,f\e\fec4a7c0d94ef76dfcce1ec67aea009de30eb4eb
+N
+NLayer.Core/NLayer.Core.csproj,1\4\14661e6ec7cc344968cc2df2535777edff68afa3
+^
+.NLayer.Core/Repositories/IGenericRepository.cs,f\b\fb6655f4a49f480faf9fb2ad926ba19cd88ad18f
+M
+NLayer.Core/ProductFeature.cs,f\d\fd85b52015f9f98122302d6657ce054fd985e5e2
